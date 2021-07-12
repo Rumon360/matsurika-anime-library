@@ -12,3 +12,5 @@ The following tools were used to build this project:
   2. Framer Motion
   3. Redux
   4. axios
+
+API Used : Jikan Api.
