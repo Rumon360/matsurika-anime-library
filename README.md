@@ -8,7 +8,7 @@ This is an Anime Library. Features of this web app -
 You can also click on an anime to see a little description about it, and also some images.
 
 The following tools were used to build this project:
-  React.js
-  Framer Motion
-  Redux
-  axios
+  1. React.js
+  2. Framer Motion
+  3. Redux
+  4. axios
